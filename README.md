@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Snake Animation](https://raw.githubusercontent.com/ROBERT-MENSAH/ROBERT-MENSAH/output/github-contribution-grid-snake.svg)
 
 <!--
 **ROBERT-MENSAH/ROBERT-MENSAH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
